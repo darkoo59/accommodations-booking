@@ -51,6 +51,7 @@ Once the browser tab opens, you can interact with it using the provided user int
 Technologies used in the project:
 
 *   GoLang
+*   C# (.NET)
 *   React
 *   HTML
 *   CSS
