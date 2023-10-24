@@ -3,9 +3,9 @@
 
 <h2>📷 Project Screenshots:</h2>
 
-<img src="https://github.com/darkoo59/skyriders/blob/develop/images/Screenshot2.png" width="1050" height="450/">
+<img src="https://github.com/darkoo59/accommodations-booking/blob/develop/screenshots/ss1.png" width="1050" height="450/">
 
-<img src="https://github.com/darkoo59/skyriders/blob/develop/images/Screenshot1.png" width="1050" height="450/">
+<img src="https://github.com/darkoo59/accommodations-booking/blob/develop/screenshots/ss2.png" width="1050" height="450/">
   
 <h2>🧐 Features</h2>
 
