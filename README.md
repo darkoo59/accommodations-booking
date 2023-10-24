@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Airplane Tickets System (With Plenty Microservices) 🤖✈</h1>
+<h1 align="center" id="title">Accommodations Booking System (With Plenty Microservices) 🤖🏠</h1>
 
 
 <h2>📷 Project Screenshots:</h2>
@@ -12,11 +12,11 @@
 Here're some of the project's best features:
 
 *   Registration(email verification included), login, profile editing, etc.
-*   Flights Booking
-*   Inventory
+*   Accommodations Booking
+*   Rooms
 *   Notifications
-*   Payment System
-*   Tickets
+*   Reservations
+*   Recommendation system
 *   And more
 
 <h2>🛠️ Installation Steps:</h2>
@@ -24,7 +24,7 @@ Here're some of the project's best features:
 <p>1. Cloning a repository</p>
 
 ```
-git clone https://github.com/darkoo59/skyriders.git
+git clone https://github.com/darkoo59/accommodations-booking.git
 ```
 
 <p>2. Starting backend application</p>
@@ -36,10 +36,10 @@ git clone https://github.com/darkoo59/skyriders.git
 
 🚀 Run the Application:
 
-    💻 Using Docker:
+  💻 Using Docker:
       ```
-docker compose up
-```
+        docker compose up
+      ```
 
 <p>4. Using application</p>
 
